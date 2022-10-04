@@ -1,0 +1,25 @@
+{
+    "delay": 3,
+    "ban_delay": 5,
+    "useProxy": false,
+    "showTimestamps": true,
+    "shops": [
+        "https://www.kith.com",
+        "https://www.kith.com/collections/all",
+        "https://colourpop.com",
+        "https://www.fashionnova.com",
+        "https://us.mavi.com",
+        "https://bombas.com",
+        "https://secretlab.eu"
+    ],
+    "restock_links": [
+	
+    ],
+    "keyWords" : [
+        "+c"
+    ],
+    "webhook": "https://discordapp.com/api/webhooks/",
+    "proxies": [
+        "ip:port:username:password"
+    ]
+}
